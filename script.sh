@@ -1,0 +1,1 @@
+echo "0 23 * * *  /usr/bin/python3 ./batch.py" >> /home/logs/cron/cron.log 2>&1
